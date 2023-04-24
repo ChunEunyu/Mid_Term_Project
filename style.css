@@ -27,6 +27,14 @@ a {
     height: 100%;
 }
 
+.navbar:active {
+    opacity: 0.5;
+}
+
+.header:active {
+    opacity: 0.5;
+}
+
 .navbar_logo {
     font-size: 40px;
     padding-left: 30%;
@@ -105,8 +113,16 @@ a {
     color: #625351;
 }
 
+.introduce:active {
+    opacity: 0.7;
+}
+
 .sns {
     text-align: center;
+}
+
+.sns:active {
+    opacity: 0.7;
 }
 
 .footer {
