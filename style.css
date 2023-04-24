@@ -92,13 +92,32 @@ a {
 }
 
 .main {
-    height: 600px;
+    height: 700px;
     background-image: url(https://www.nieeh.com/layout/basic/img/nieeh_main.jpg);
     padding: 8px 20px;
 }
 
 .introduce {
     text-align: center;
+    padding-top: 160px;
+    padding-bottom: 50px;
+    font-size: 13px;
+    color: #625351;
 }
+
+.sns {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    color: #000000;
+    font-size: 13px;
+    padding-left: 0px;
+    height: 120px;
+    background-image: linear-gradient(#F0AEA0,#BBB4B2)
+}
+
+
 
 
