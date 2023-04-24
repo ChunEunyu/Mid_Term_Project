@@ -1,6 +1,4 @@
-html {
-    scroll-behavior: smooth;
-}
+
 
 body {
     margin: 0;
@@ -99,6 +97,8 @@ a {
     padding: 8px 20px;
 }
 
-.footer {
-    position : relative;
+.introduce {
+    text-align: center;
 }
+
+
