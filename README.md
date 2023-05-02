@@ -5,7 +5,7 @@
 html, css, javascript를 이용한 자기소개 웹페이지 (●'◡'●) <br><br>
 
 ## 🐁웹페이지 바로가기
-[클릭!](http://ec2-54-180-30-110.ap-northeast-2.compute.amazonaws.com/)
+AWS 배포: [클릭!](http://ec2-54-180-30-110.ap-northeast-2.compute.amazonaws.com/)
 
 
 
